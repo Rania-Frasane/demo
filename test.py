@@ -1,1 +1,3 @@
-print('hello word')
+print('hello word');
+input('votre nom');
+print('good');
